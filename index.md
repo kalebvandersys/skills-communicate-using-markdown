@@ -9,3 +9,7 @@
 ``` java
 int myInt = 0;
 ```
+
+- [ ] Win
+- [ ] Do well
+- [x] Not lose
